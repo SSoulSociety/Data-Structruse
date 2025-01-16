@@ -1,0 +1,1 @@
+// palindorm sayi bulmay foknsiyonu yaz use queue and stack
